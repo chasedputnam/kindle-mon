@@ -1,2 +1,8 @@
 .DS_Store
-
+.project
+/**/.idea/
+/**/pkg/
+/**/bin/
+/**/*.iml
+/**/.idea/vcs.xml
+src/kindle-mon/kindle-mon
